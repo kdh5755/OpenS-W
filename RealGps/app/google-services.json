@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "323745991126",
+    "firebase_url": "https://fir-a8117.firebaseio.com",
+    "project_id": "fir-a8117",
+    "storage_bucket": "fir-a8117.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:323745991126:android:b4e24dff84e008c05c3c77",
+        "android_client_info": {
+          "package_name": "com.example.realgps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "323745991126-t63jnu4qli0gekaa6hm9fqt8qmpnb87o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.realgps",
+            "certificate_hash": "a4d52aa7243df8d29f6cfd29c6addca3c33ed380"
+          }
+        },
+        {
+          "client_id": "323745991126-q2j6aueict6t3nksrm49bmt43ebd38n4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgO6JYhIPF262d5pEKwc_gCr39DaCjeRU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "323745991126-q2j6aueict6t3nksrm49bmt43ebd38n4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
